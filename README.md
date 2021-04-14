@@ -65,7 +65,7 @@ chats.run().then(chatData => {
 });
 ```
 
-Get chat data between 0 and 4000 seconds and filter to only to only show content_offset_seconds and everything inside of message.
+Get chat data between 0 and 4000 seconds and filter to only to only show content_offset_seconds and everything inside of message:
 ```javascript
 const grabTwitchChats = require('./grabTwitchChats.js');
 

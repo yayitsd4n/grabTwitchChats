@@ -13,7 +13,7 @@ chats.run().then(chatData => {
 
 ## Options
 `devId: String`  
-Your [Twitch.tv](https://dev.twitch.tv/docs/api/) developer ID
+Your [Twitch.tv](https://dev.twitch.tv/docs/api/) developer ID.
 
 `videoId: Number`  
 The ID of the video you want to grab chats from.
